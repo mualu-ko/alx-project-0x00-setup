@@ -9,5 +9,5 @@ export interface ButtonProps {
   size?: ButtonSize;
   shape?: ButtonShape;
   className?: string;
-  style?: string;
+  styles?: string;
 }
